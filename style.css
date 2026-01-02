@@ -10,3 +10,7 @@ header {
 header, footer {
   display: none;
 }
+body {
+ background-image: url("https://github.com/FlutterCat555/fluttercat555.github.io/blob/README_TEST/gradientbg.png?raw=true");
+ background-color: #cccccc;
+}
