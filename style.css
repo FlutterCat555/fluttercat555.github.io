@@ -1,0 +1,12 @@
+.site-title,  /* please for the life of you just work*/
+header.site-header,
+.site-header,
+header {
+  display: none !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+header, footer {
+  display: none;
+}
